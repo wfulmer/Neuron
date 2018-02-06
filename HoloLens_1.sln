@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloLens_1", "HoloLens_1.csproj", "{20EEB123-B750-C353-0DBB-D26C8C097AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EEB123-B750-C353-0DBB-D26C8C097AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EEB123-B750-C353-0DBB-D26C8C097AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EEB123-B750-C353-0DBB-D26C8C097AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EEB123-B750-C353-0DBB-D26C8C097AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

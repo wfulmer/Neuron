@@ -1,0 +1,2 @@
+D:\willi\Documents\HoloLens_1\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\willi\Documents\HoloLens_1\App\HoloLens_1\HoloLens_1.csproj;x86
